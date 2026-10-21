@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Faiz Devfolio
 
@@ -134,3 +135,7 @@ build/app/outputs/flutter-apk/app-release.apk
 This project is being developed and refined as a personal portfolio application.
 
 Project descriptions reflect my professional experience and work. Features, screenshots, and implementation details may evolve as development continues.
+=======
+# faiz-devfolio
+A responsive Flutter developer portfolio showcasing projects, professional experience, skills, and contact information.
+>>>>>>> 4bf9413559444fe9b4412e3cbd1a014edf169280
